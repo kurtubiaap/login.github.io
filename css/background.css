@@ -1,0 +1,8 @@
+.background {
+	background-color: #f4f4f4;
+  background-image: url(../img/abc.png) ;
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+}
